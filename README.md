@@ -16,23 +16,15 @@ to plan your coding project. Outline your code step-by-step so that you can use 
 with your zipped application.
 
       a.) Do not write code yet. You will do that in Step 3. For this step, write your thoughts in English of what the program should do.
-   
       b.) Don’t be concerned with syntax, just list statements, each describing a single action.
-   
       c.) List all steps.
-   
       d.) Use proper naming conventions.
-   
       e.) Keep it simple—use only one statement per line.
    
 2.) Develop an object-oriented programming (OOP) application using secure and efficient C++ code. Make sure that your application:
-
       a.) Meets all specifications listed in the Airgead Banking App Functional Requirements
-      
       b.) Follows best practices described in the Airgead Banking Standards document
-      
       c.) Includes in-line comments
       
 3.) When your solution is finished, zip your project including all components (CPP, H, and any other files used).
-
 4.) Upload your zipped project file and pseudocode or flowchart to the project submission area.
