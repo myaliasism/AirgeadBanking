@@ -9,7 +9,7 @@ they make) via an interactive system. The initial focus for this project will be
 interest. You will develop an application that allows users to see how their investments will grow over time. Airgead Banking 
 has provided you with a list of functional requirements that describe what they need their application to do.
 
---------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
 
 1. ) Review the Airgead Banking App Functional Requirements, located in the Supporting Materials section. Create pseudocode or a flowchart 
 to plan your coding project. Outline your code step-by-step so that you can use it as a guide when coding. This will be submitted along 
